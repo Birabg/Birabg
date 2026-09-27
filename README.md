@@ -1,142 +1,58 @@
+<!-- ========================================================= -->
+<!--                        HERO                               -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hey, I'm Bira Girma
-
-### Computer Science & Engineering Student · UI/UX Designer · Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+design+interfaces+people+enjoy+using.;I+build+systems+that+solve+real+problems.;Computer+Science+%2B+Design+%2B+Technology.;Always+learning%2C+building%2C+and+improving." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:312e81&text=Bira%20Girma&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/Birabg">
-  <img src="https://img.shields.io/github/followers/Birabg?label=Followers&style=for-the-badge&color=58A6FF" />
+<img src="https://img.shields.io/github/followers/Birabg?style=flat-square&logo=github&label=Followers&color=1f2937" />
 </a>
+&nbsp;
 <a href="https://github.com/Birabg?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Birabg?label=Stars&style=for-the-badge&color=58A6FF" />
+<img src="https://img.shields.io/badge/Repositories-Explore-1f2937?style=flat-square&logo=github" />
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Birabg&style=flat-square&color=312e81&label=Profile+Views" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Designing+digital+experiences.;Building+interfaces+that+feel+right.;Turning+ideas+into+working+software.;Learning+how+systems+work+behind+the+interface.;Exploring+AI+agents+and+modern+software+systems." />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 Hey, I'm Bira
 
-I'm a **Computer Science & Engineering student at Adama Science and Technology University** who enjoys working where **technology, design, and problem-solving** meet.
+I'm a **Computer Science & Engineering student** with a strong interest in the intersection of **design, software, and technology**.
 
-I started with design and gradually moved deeper into software development. Today, I enjoy both sides of the process:
+I enjoy taking an idea, understanding the problem behind it, designing the experience, and then getting my hands dirty building the actual product.
 
-- 🎨 Designing clean and intuitive digital experiences
-- 💻 Building functional web applications
-- 🧩 Solving real-world software problems
-- 🏗️ Understanding how systems work behind the interface
-- 🚀 Exploring new technologies and ideas
-
-I'm especially interested in **UI/UX, product design, full-stack development, backend systems, and AI-powered applications**.
-
-> **Design the experience. Build the system. Solve the problem.**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,python,html,css,postgres,prisma,git,github,vscode" />
-</p>
-
-### 🎨 Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
-
----
-
-## 🚀 What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 UI/UX & Product Design
-
-Creating interfaces that are:
-
-- Clean
-- Practical
-- Responsive
-- Easy to understand
-- Visually polished
-
-I enjoy designing dashboards, websites, mobile interfaces, and digital systems.
-
-</td>
-
-<td width="50%">
-
-### 💻 Software Development
-
-Currently building my development skills through real projects involving:
-
-- React
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- Java
-- REST APIs
-- Authentication & RBAC
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-### 🏢 Moti Partner Support Portal
-
-A centralized support management platform designed to help organizations manage customer support cases, staff, departments, organizations, notifications, approvals, reports, and feedback.
-
-**My role:** Frontend Development + UI/UX Improvement
-
-**Built with:**
-
-`React` `Vite` `JavaScript` `Express.js` `Prisma` `PostgreSQL` `REST API`
-
----
-
-### 🧮 RMI Calculator
-
-A Java distributed application created to explore **Remote Method Invocation (RMI)** and client-server communication.
-
-**Built with:**
-
-`Java` `Java RMI`
-
----
-
-### 🎨 UI/UX Design Projects
-
-I also work on interface design and redesign projects focused on improving usability, visual hierarchy, responsiveness, and overall user experience.
-
-**Tools:**
-
-`Figma` `Photoshop` `Illustrator` `InDesign`
-
----
-
-## 📚 Currently Learning
+My background sits somewhere between **Product Design and Software Development**.
 
 ```text
-Backend Development
-       ↓
-System Design
-       ↓
-Databases & APIs
-       ↓
-AI & Agent Programming
-       ↓
-Building Real-World Products
+       IDEA
+         │
+         ▼
+   ┌─────────────┐
+   │   RESEARCH  │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │    DESIGN   │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │    BUILD    │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │   IMPROVE   │
+   └─────────────┘
