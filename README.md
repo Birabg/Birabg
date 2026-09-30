@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:312e81&text=Bira%20Girma&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:172554,100:312e81&text=Bira%20Girma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Computer%20Science%20Student&descAlignY=59&descSize=18" width="100%"/>
 
 <br/>
 
@@ -16,95 +16,75 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Designing+digital+experiences.;Building+interfaces+that+feel+right.;Turning+ideas+into+working+software.;Learning+how+systems+work+behind+the+interface.;Exploring+AI+agents+and+modern+software+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Designing+digital+experiences.;Building+interfaces+that+feel+right.;Turning+ideas+into+working+software.;Understanding+systems+behind+the+interface.;Exploring+AI%2C+agents%2C+and+modern+software+systems." />
 
 </div>
 
 ---
 
-#  Hey, I'm Bira
+# 👋 Hey, I'm Bira
 
-I'm a **Computer Science & Engineering student at Adama Science and Technology University** with a strong interest in the intersection of **design, software, and technology**.
+I'm a **Computer Science & Engineering student at Adama Science and Technology University**, with a strong interest in **Product Design, Frontend Development, and Software Engineering**.
 
-I enjoy taking an idea, understanding the problem behind it, designing the experience, and then getting my hands dirty building the actual product.
+I enjoy working across the boundary between **design and technology** — understanding a problem, designing the experience, and then turning that experience into a working product.
 
-My background sits between **Product Design and Software Development**, which lets me approach projects from both the user and technical sides.
+My goal is simple:
 
-### What I care about
+> **Design better experiences. Build better systems. Solve meaningful problems.**
 
-- 🎨 Product & UI/UX Design
-- 💻 Frontend Development
-- 🧠 Software Engineering
-- 🏗️ System Design
-- 🗄️ Backend & Databases
-- 🤖 AI & Agent Programming
-- 🔍 Solving real problems with technology
-
-> **Design the experience. Build the system. Solve the problem.**
+I'm currently exploring how **AI, modern software architecture, and product design** can come together to build useful digital products.
 
 ---
 
-# 🎨 Design × 💻 Development
+# 🎨 Design × 💻 Engineering
 
-I don't see design and development as completely separate things.
+One of the things I enjoy most is being able to look at a product from both sides.
 
-Good products need both.
+### 🎨 Product & UI/UX Design
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I focus on:
 
-## 🎨 Design
+* Product Design
+* UI/UX Design
+* User Flows
+* Wireframing
+* Prototyping
+* Design Systems
+* Responsive Design
+* Dashboard Design
+* Mobile App Design
+* Web Design
+* UX Research
 
-I work with:
-
-- UI/UX Design
-- Product Design
-- Wireframing
-- Prototyping
-- Design Systems
-- Responsive Design
-- User Research
-- UX Flows
-- Dashboard Design
-- Mobile App Design
-- Website Design
-
-### Design Tools
+**Tools**
 
 `Figma` `Photoshop` `Illustrator` `InDesign`
 
-</td>
+### 💻 Software Development
 
-<td width="50%" valign="top">
+I build and experiment with:
 
-## 💻 Development
-
-I work across different areas of software development, with a current focus on frontend and backend development.
-
-### Frontend
+**Frontend**
 
 `HTML` `CSS` `JavaScript` `TypeScript` `React`
 
-### Backend & Data
+**Backend**
 
 `Node.js` `Express.js` `PHP`
 
+**Databases**
+
 `PostgreSQL` `MySQL` `Prisma` `SQL`
 
-### Programming
+**Programming**
 
 `Java` `Python` `C` `C++`
 
-</td>
-</tr>
-</table>
-
 ---
 
-# 🧰 Tech Stack
+# 🧰 Technology
 
-### Programming Languages
+### Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,php,html,css" />
@@ -116,7 +96,7 @@ I work across different areas of software development, with a current focus on f
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### Databases & Data
+### Databases & ORM
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
@@ -128,7 +108,7 @@ I work across different areas of software development, with a current focus on f
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-### Development Tools
+### Tools & Environment
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,ubuntu,idea" />
@@ -136,22 +116,145 @@ I work across different areas of software development, with a current focus on f
 
 ---
 
-# 🔐 Backend & Systems
+# 🏗️ Backend & Systems
 
-Beyond interfaces, I'm interested in understanding what happens underneath them.
+My interest goes beyond building interfaces.
 
-I've worked with:
+I'm actively learning how the systems behind digital products work — from APIs and databases to authentication, permissions, and system architecture.
+
+Some areas I've worked with:
 
 ```text
 REST APIs
-Authentication
+Authentication & Authorization
 JWT
 RBAC & Permissions
 API Development
-SQL
+SQL & Relational Databases
 PostgreSQL
 MySQL
-Prisma
+Prisma ORM
 Client / Server Architecture
-Distributed Systems
 System Design
+Distributed Systems
+```
+
+---
+
+# 🚀 What I'm Currently Exploring
+
+I'm continuously learning and experimenting with:
+
+* 🤖 AI & AI Agents
+* 🧠 Intelligent Software Systems
+* 🏗️ System Architecture
+* 🎨 Product Design
+* ⚛️ Modern React Applications
+* 🔐 Authentication & Security
+* 🗄️ Backend Architecture
+* 📊 Data & Databases
+* ☁️ Deployment & DevOps
+
+I'm especially interested in the future of **AI-powered products and software systems**.
+
+---
+
+# 📌 Featured Projects
+
+### 🏢 MOTI Partner Support Portal
+
+A full-stack partner support platform focused on managing cases, organizations, products, approvals, feedback, and reporting.
+
+**Stack**
+
+`React` `Express.js` `TypeScript` `Prisma` `PostgreSQL`
+
+---
+
+### ♟️ ETHCHESS Platform
+
+A digital platform concept for managing chess tournaments, players, leaderboards, and profiles.
+
+**Focus**
+
+`Product Design` `UI/UX` `Design Systems` `Responsive Design`
+
+---
+
+### 🎓 EthioMentor
+
+A Java-based web application focused on connecting students with mentorship and educational resources.
+
+**Stack**
+
+`Java` `Servlets` `JDBC` `MySQL`
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Birabg&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌱 My Approach
+
+I believe good software is more than code.
+
+It's about understanding:
+
+```text
+The Problem
+     ↓
+The User
+     ↓
+The Experience
+     ↓
+The Interface
+     ↓
+The System
+     ↓
+The Solution
+```
+
+That's why I'm interested in the space between **design, engineering, and problem solving**.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in meeting people who are building, designing, learning, or experimenting with technology.
+
+<div align="center">
+
+<a href="https://github.com/Birabg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 Design it. Build it. Understand it. Improve it.
+
+</div>
