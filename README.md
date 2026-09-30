@@ -22,7 +22,7 @@
 
 ---
 
-# 👋 Hey, I'm Bira
+#  Hey, I'm Bira
 
 I'm a **Computer Science & Engineering student at Adama Science and Technology University** with a strong interest in the intersection of **design, software, and technology**.
 
