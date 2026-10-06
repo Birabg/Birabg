@@ -132,7 +132,7 @@ Software Architecture
 </table>
 
 ---
-## `06` — GitHub
+## `05` — GitHub
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Software Architecture
 
 ---
 
-## `07` — Activity
+## `06` — Activity
 
 <div align="center">
 
