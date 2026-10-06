@@ -132,33 +132,6 @@ Software Architecture
 </table>
 
 ---
-
-## `05` — Selected Work
-
-### 🏢 MOTI Partner Support Portal
-
-Full-stack support management platform covering cases, organizations, products, approvals, feedback, and reporting.
-
-`React` `Express` `TypeScript` `Prisma` `PostgreSQL`
-
----
-
-### ♟️ ETHCHESS
-
-Product design concept for a chess platform covering tournaments, players, leaderboards, and profiles.
-
-`Figma` `Product Design` `UI/UX`
-
----
-
-### 🎓 EthioMentor
-
-Java web application focused on connecting students with mentorship and educational resources.
-
-`Java` `Servlets` `JDBC` `MySQL`
-
----
-
 ## `06` — GitHub
 
 <div align="center">
