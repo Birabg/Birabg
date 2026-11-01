@@ -1,4 +1,3 @@
-BIRA⚡, [01.11.2026 15:11]
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:1e1b4b,100:3a4ee0&text=BIRA%20GIRMA&fontSize=62&fontColor=f8fafc&fontAlignY=38&desc=Product%20Designer%20%C3%97%20Frontend%20Developer&descSize=18&descColor=93c5fd&descAlignY=58&animation=fadeIn" width="100%" alt="Bira Girma"/>
