@@ -77,13 +77,6 @@ Software architecture
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+ls+.%2Fselected-work&repeat=false" alt="Selected work"/>
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **[SEBEB](https://github.com/Birabg/sebeb)** | A learning platform for practical craft skills: course catalogue, video lessons, enrolment and a personal learning dashboard. | Next.js, NestJS, Prisma, MariaDB |
-| **[MOTI Partner Support Portal](https://github.com/Birabg/moti_partner_support_final)** | Partners raise cases and staff resolve them. Role-based workspaces, feedback, and reports exported to PDF, Excel and CSV. | React, Express, Prisma, PostgreSQL |
-| **[Bira's Collections](https://github.com/Birabg/biras-collections)** | A fashion storefront with cart, search, accounts, an admin area and an orders and payments data model. | React, Express, Prisma, Zod |
-
-Smaller builds: [A-Plus Paper Factory](https://github.com/Birabg/A-plus-paper-factory) and [Scan Me](https://github.com/Birabg/Scan_methis).
 
 <br/>
 
