@@ -83,29 +83,6 @@ Turning product ideas into functional, maintainable software.
 
 A selection of projects where design, engineering, and problem-solving come together.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Birabg/sebeb-platform">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:152B28,100:344D3C&text=SEBEB&fontSize=30&fontColor=F0FDF4&fontAlignY=50" width="100%" alt="SEBEB project banner"/>
-</a>
-
-**SEBEB · Craft learning platform**
-
-A learning management experience designed to help people discover practical craft skills, explore courses, and learn by making.
-
-`Product Design` `UI/UX` `Frontend`
-
-[Explore repository →](https://github.com/Birabg/sebeb-platform)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Birabg?tab=repositories">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:17172F,100:343A78&text=MORE%20EXPERIMENTS&fontSize=22&fontColor=EEF2FF&fontAlignY=50" width="100%" alt="More projects banner"/>
-</a>
-
 **Engineering · Ongoing experiments**
 
 Exploring web applications, backend systems, databases, and new ways to turn ideas into useful software.
