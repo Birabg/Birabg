@@ -184,6 +184,20 @@ Exploring web applications, backend systems, databases, and new ways to turn ide
 
 </details>
 
+```html
+<div align="center">
+
+<a href="https://github.com/Birabg">
+  <img
+    src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=080B16&ring=818CF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=C9D1E3&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
+    width="80%"
+    alt="Bira Girma's GitHub streak statistics"
+  />
+</a>
+
+</div>
+```
+
 ---
 
 <div align="center">
