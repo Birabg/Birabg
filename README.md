@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B16,55:111936,100:243B80&text=BIRA%20GIRMA&fontSize=66&fontColor=F8FAFC&fontAlignY=43&desc=PRODUCT%20DESIGNER%20%2F%2F%20SOFTWARE%20ENGINEER&descSize=14&descColor=93C5FD&descAlignY=67" width="100%" alt="Bira Girma — Product Designer and Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B16,55:111936,100:243B80&text=BIRA%20GIRMA&fontSize=66&fontColor=F8FAFC&fontAlignY=43&desc=PRODUCT%20DESIGNER%20%2F%2F%20SOFTWARE%20ENGINEER&descSize=14&descColor=93C5FD&descAlignY=67" width="100%" alt="Bira Girma"/>
 
 <br/>
 
@@ -123,24 +123,24 @@ Exploring web applications, backend systems, databases, and new ways to turn ide
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,php&theme=dark" alt="JavaScript, TypeScript, Java, Python, C, C++, PHP"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,php&theme=dark" alt="Programming languages"/>
 </p>
 
 **Frontend and backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,nestjs&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, NestJS"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,nestjs&theme=dark" alt="Frontend and backend technologies"/>
 </p>
 
 **Databases, design, and tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,figma,ps,ai,git,github,vscode,docker,linux&theme=dark" alt="PostgreSQL, MySQL, Prisma, Figma, Adobe Photoshop, Adobe Illustrator, Git, GitHub, VS Code, Docker, Linux"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,figma,ps,ai,git,github,vscode,docker,linux&theme=dark" alt="Databases, design tools, and development tools"/>
 </p>
 
 ### `05 / GITHUB ACTIVITY`
 
-<sub>A snapshot of my work, contributions, and coding consistency.</sub>
+<sub>A snapshot of my contributions, coding consistency, and activity over time.</sub>
 
 <div align="center">
 
@@ -154,15 +154,29 @@ Exploring web applications, backend systems, databases, and new ways to turn ide
 
 <br/><br/>
 
+<!-- GitHub streak counter -->
+
 <a href="https://github.com/Birabg">
-<img src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=080B16&ring=818CF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=C9D1E3&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=080B16&ring=818CF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=C9D1E3&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="80%" alt="GitHub current and longest contribution streak"/>
 </a>
 
 <br/><br/>
 
+<!-- GitHub contribution activity graph -->
+
 <a href="https://github.com/Birabg">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=080B16&color=93C5FD&line=818CF8&point=F8FAFC&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 </a>
+
+<br/><br/>
+
+<!-- Optional snake animation: requires a GitHub Actions workflow -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg" width="100%" alt="Snake animation of GitHub contributions"/>
+</picture>
 
 </div>
 
@@ -183,20 +197,6 @@ Exploring web applications, backend systems, databases, and new ways to turn ide
 | Security | Web security and authentication practices |
 
 </details>
-
-```html
-<div align="center">
-
-<a href="https://github.com/Birabg">
-  <img
-    src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=080B16&ring=818CF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=C9D1E3&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
-    width="80%"
-    alt="Bira Girma's GitHub streak statistics"
-  />
-</a>
-
-</div>
-```
 
 ---
 
