@@ -1,138 +1,201 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:1e1b4b,100:3a4ee0&text=BIRA%20GIRMA&fontSize=64&fontColor=f8fafc&fontAlignY=36&desc=Product%20Designer%20%C3%97%20Frontend%20Developer&descSize=18&descColor=93c5fd&descAlignY=56&animation=twinkling" width="100%" alt="Bira Girma"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B16,55:111936,100:243B80&text=BIRA%20GIRMA&fontSize=66&fontColor=F8FAFC&fontAlignY=43&desc=PRODUCT%20DESIGNER%20%2F%2F%20SOFTWARE%20ENGINEER&descSize=14&descColor=93C5FD&descAlignY=67" width="100%" alt="Bira Girma — Product Designer and Software Engineer"/>
 
-<a href="https://github.com/Birabg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=720&height=45&lines=Designing+digital+experiences.;Building+modern+web+interfaces.;From+the+Figma+file+to+the+database+schema.;Turning+ideas+into+working+software.;Exploring+AI+%26+modern+software+systems." alt="Typing animation"/>
-</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/bira-girma-441a08319"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=flat-square&logo=linkedin&logoColor=93C5FD" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/biragirma"><img src="https://img.shields.io/badge/BEHANCE-111827?style=flat-square&logo=behance&logoColor=93C5FD" alt="Behance"/></a>
+<a href="https://github.com/Birabg"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat-square&logo=github&logoColor=93C5FD" alt="GitHub"/></a>
+<a href="mailto:biragirma4@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=flat-square&logo=gmail&logoColor=93C5FD" alt="Email"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/bira-girma-441a08319"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
-<a href="https://www.behance.net/biragirma"><img src="https://img.shields.io/badge/Behance-Design_work-0f172a?style=for-the-badge&logo=behance&logoColor=60a5fa" alt="Behance"/></a>
-<a href="mailto:biragirma4@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0f172a?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Birabg&label=Profile%20views&color=3a4ee0&style=for-the-badge" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=93C5FD&center=true&vCenter=true&width=650&height=35&lines=I+design+products+people+love+to+use.;I+build+interfaces+that+feel+as+good+as+they+look.;Curious+about+systems%2C+software%2C+and+AI." alt="Introduction animation"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+cat+about.md&repeat=false" alt="About"/>
+### `01 / THE PERSON BEHIND THE PIXELS`
 
-I'm **Bira Girma**, a Computer Science & Engineering student at **Adama Science and Technology University**, Ethiopia, working as a **product designer and frontend developer**.
+I'm **Bira Girma**, a Computer Science and Engineering student at **Adama Science and Technology University, Ethiopia**.
 
-I like working where **design meets engineering**: understanding the problem, designing the experience, and building the product myself, from the Figma file to the database schema.
+I'm interested in the space between product design and software engineering. I enjoy understanding a problem, shaping the user experience, and turning the design into a working product.
+
+My design background helps me think about how software feels to use. My engineering background helps me think about how it works behind the scenes.
+
+Currently, I'm building projects, strengthening my engineering fundamentals, and exploring AI-powered applications.
 
 ```ts
 const bira = {
-  role: ["Product Designer", "Frontend Developer"],
-  study: "CS & Engineering @ ASTU, Adama",
-  basedIn: "Ethiopia",
-  building: "SEBEB: a learning platform for craft skills",
-  process: ["Design", "Build", "Learn", "Improve"],
-  exploring: ["System design", "AI agents", "Security"],
+  name: "Bira Girma",
+  roles: ["Product Designer", "Frontend Developer"],
+  education: "Computer Science & Engineering @ ASTU",
+  location: "Ethiopia",
+  currentlyBuilding: "SEBEB — a craft-learning platform",
+  interests: [
+    "Product design",
+    "Software architecture",
+    "AI agents",
+    "Backend engineering",
+  ],
+  philosophy: "Understand the problem. Design the experience. Build the solution.",
 };
 ```
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+ls+.%2Fwhat-i-do&repeat=false" alt="What I do"/>
+### `02 / WHAT I BRING TO THE TABLE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎨 Product design**
+#### ◈ Product design
 
-```text
-UI / UX
-Design systems
-Prototyping
-User flows
-Responsive design
-Dashboard design
-Mobile design
-```
+Designing digital products around people, problems, and clear interactions.
+
+- UI/UX design
+- User flows and wireframes
+- Interactive prototyping
+- Design systems
+- Responsive interfaces
+- Dashboard and mobile design
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Development**
+#### ◈ Software engineering
 
-```text
-Frontend
-Backend
-REST APIs
-Databases
-Authentication
-System design
-Software architecture
-```
+Turning product ideas into functional, maintainable software.
+
+- Frontend development
+- Backend fundamentals
+- REST API integration
+- Database design
+- Authentication
+- Software architecture
 
 </td>
 </tr>
 </table>
 
-<br/>
+### `03 / SELECTED WORK`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+ls+.%2Fselected-work&repeat=false" alt="Selected work"/>
+A selection of projects where design, engineering, and problem-solving come together.
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<a href="https://github.com/Birabg/sebeb-platform">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:152B28,100:344D3C&text=SEBEB&fontSize=30&fontColor=F0FDF4&fontAlignY=50" width="100%" alt="SEBEB project banner"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+which+stack&repeat=false" alt="Tech stack"/>
+**SEBEB · Craft learning platform**
+
+A learning management experience designed to help people discover practical craft skills, explore courses, and learn by making.
+
+`Product Design` `UI/UX` `Frontend`
+
+[Explore repository →](https://github.com/Birabg/sebeb-platform)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Birabg?tab=repositories">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:17172F,100:343A78&text=MORE%20EXPERIMENTS&fontSize=22&fontColor=EEF2FF&fontAlignY=50" width="100%" alt="More projects banner"/>
+</a>
+
+**Engineering · Ongoing experiments**
+
+Exploring web applications, backend systems, databases, and new ways to turn ideas into useful software.
+
+`Web Development` `Systems` `AI`
+
+[Browse all repositories →](https://github.com/Birabg?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+### `04 / THE TOOLKIT`
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,php&theme=dark" alt="JavaScript, TypeScript, Java, Python, C, C++, PHP"/>
+</p>
+
+**Frontend and backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,nestjs&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, NestJS"/>
+</p>
+
+**Databases, design, and tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,figma,ps,ai,git,github,vscode,docker,linux&theme=dark" alt="PostgreSQL, MySQL, Prisma, Figma, Adobe Photoshop, Adobe Illustrator, Git, GitHub, VS Code, Docker, Linux"/>
+</p>
+
+### `05 / GITHUB ACTIVITY`
+
+<sub>A snapshot of my work, contributions, and coding consistency.</sub>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,php&theme=dark" alt="Languages"/>
+<a href="https://github.com/Birabg">
+<img src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=080B16&title_color=93C5FD&text_color=C9D1E3&icon_color=818CF8&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Birabg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=080B16&title_color=93C5FD&text_color=C9D1E3" height="175" alt="Most used programming languages"/>
+</a>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,nestjs&theme=dark" alt="Frontend and backend"/>
+
+<a href="https://github.com/Birabg">
+<img src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=080B16&ring=818CF8&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=C9D1E3&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="70%" alt="GitHub contribution streak"/>
+</a>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,figma,ps,ai,git,github,vscode,docker,linux&theme=dark" alt="Data, design and tools"/>
+
+<a href="https://github.com/Birabg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=080B16&color=93C5FD&line=818CF8&point=F8FAFC&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+</a>
 
 </div>
 
-<br/>
+### `06 / CURRENTLY EXPLORING`
 
 <details>
-<summary><b>🔭 Currently exploring</b> (click to open)</summary>
+<summary><b>Open my learning roadmap</b></summary>
+
 <br/>
 
-<table>
-<tr><td>Product design</td><td>React and frontend</td></tr>
-<tr><td>System design</td><td>AI and AI agents</td></tr>
-<tr><td>Security and authentication</td><td>Backend architecture</td></tr>
-</table>
+| Area | Focus |
+|---|---|
+| Product design | Better UX decisions and product thinking |
+| Frontend | React, Next.js, accessibility, and performance |
+| Backend | APIs, authentication, and database design |
+| Software engineering | Architecture, system design, and fundamentals |
+| Artificial intelligence | AI applications and agent development |
+| Security | Web security and authentication practices |
 
 </details>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=99999&color=3A4EE0&vCenter=true&width=420&height=34&lines=%24+git+log+--stats&repeat=false" alt="GitHub stats"/>
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:243B80,50:111936,100:080B16&text=IDEAS%20INTO%20EXPERIENCES.&fontSize=24&fontColor=F8FAFC&fontAlignY=60" width="100%" alt="Ideas into experiences"/>
 
-<img src="https://streak-stats.demolab.com?user=Birabg&theme=tokyonight&hide_border=true" alt="Streak"/>
+**Design with intention. Build with curiosity. Keep learning.**
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=1a1b27&color=93c5fd&line=3a4ee0&point=f8fafc&area=true&area_color=3a4ee0&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<a href="mailto:biragirma4@gmail.com">Have an interesting idea? Let's talk.</a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
-</picture>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:3a4ee0,50:1e1b4b,100:020617&text=Let%27s%20build%20something%20meaningful.&fontSize=24&fontColor=f8fafc&fontAlignY=64&animation=fadeIn" width="100%" alt="Let's build something meaningful"/>
-
-<sub>Design × Code × Technology</sub>
+<sub>Made with curiosity from Ethiopia · © Bira Girma</sub>
 
 </div>
