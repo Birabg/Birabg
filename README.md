@@ -144,52 +144,6 @@ A project focused on helping people stay focused, track progress, and build bett
 
 ---
 
-<h2 align="center">07 / CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<p>Every contribution tells a little part of the journey.</p>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake.svg"/>
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Birabg/Birabg/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<h2 align="center">08 / CURRENTLY EXPLORING</h2>
-
-<div align="center">
-
-| FIELD | CURRENT FOCUS |
-|:---|:---|
-| 🎨 Product Design | UX thinking, usability, design systems |
-| 💻 Frontend | React, Next.js, accessibility |
-| ⚙️ Backend | APIs, authentication, databases |
-| 🏗️ Engineering | Architecture, system design |
-| 🤖 Artificial Intelligence | AI applications and agents |
-| 🔐 Security | Web security and authentication |
-
-</div>
-
-<details>
-<summary><b>🧠 A little more about my learning journey</b></summary>
-
-<br/>
-
-I believe that learning software development is more than learning frameworks and tools.
-
-I'm interested in understanding the fundamentals behind the technologies I use.
-
-My goal is to become someone who can move comfortably from understanding a problem to designing, engineering, and delivering a complete solution.
-
-</details>
-
----
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
