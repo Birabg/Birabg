@@ -123,43 +123,6 @@ A project focused on helping people stay focused, track progress, and build bett
 
 </div>
 
----
-
-<h2 align="center">05 / THE TOOLKIT</h2>
-
-<div align="center">
-
-<h3>Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,php&theme=dark" alt="Programming languages"/>
-
-<br/><br/>
-
-<h3>Frontend & Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,nestjs&theme=dark" alt="Frontend and backend technologies"/>
-
-<br/><br/>
-
-<h3>Databases & ORM</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="Databases"/>
-
-<br/><br/>
-
-<h3>Design & Creative Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools"/>
-
-<br/><br/>
-
-<h3>Development Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Development tools"/>
-
-</div>
-
----
 
 <h2 align="center">06 / GITHUB STATISTICS</h2>
 
