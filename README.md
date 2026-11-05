@@ -40,12 +40,7 @@
 
 Hey, I'm **Bira Girma** 
 
-A Computer Science and Engineering student at **Adama Science and Technology University, Ethiopia**.
-
-Design Engineer, combining UI/UX design with frontend development , software engineering and AI.
-Currently, I'm:
-
-- 🤖 Exploring AI applications and agent development.
+Design Engineer, combining UI/UX design with frontend development , software engineering and AI CSE Student at ASTU/4th year/
 - 💻 Strengthening my frontend and backend engineering skills.
 - 🧠 Learning software architecture and system design.
 - 🎨 Exploring product design and better UX decisions. 
