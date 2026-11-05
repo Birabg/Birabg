@@ -58,50 +58,8 @@ Design Engineer, combining UI/UX design with frontend development , software eng
 
 </div>
 
----
 
-<h2 align="center">03 / WHAT I DO</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">◈ PRODUCT DESIGN</h3>
-
-<p align="center">Making digital products intuitive, useful, and visually engaging.</p>
-
-- UI/UX Design
-- User flows and wireframes
-- Interactive prototyping
-- Design systems
-- Responsive web design
-- Dashboard interfaces
-- Mobile app design
-- Visual storytelling
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">◈ SOFTWARE ENGINEERING</h3>
-
-<p align="center">Turning concepts and designs into functional software.</p>
-
-- Frontend development
-- Backend fundamentals
-- REST API integration
-- Database design
-- Authentication
-- Application architecture
-- Problem solving
-- AI-powered applications
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">04 / FEATURED PROJECT</h2>
+<h2 align="center">03 / FEATURED PROJECT</h2>
 
 <div align="center">
 
