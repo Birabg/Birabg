@@ -38,22 +38,17 @@
 
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-Hey, I'm **Bira Girma** 👋
+Hey, I'm **Bira Girma** 
 
 A Computer Science and Engineering student at **Adama Science and Technology University, Ethiopia**.
 
-I'm fascinated by the intersection of design and technology.
-
-I enjoy understanding problems, designing meaningful experiences, and turning ideas into functional products.
-
-My design background shapes how I think about user experiences. My engineering background pushes me to understand how things work beneath the interface.
-
+Design Engineer, combining UI/UX design with frontend development , software engineering and AI.
 Currently, I'm:
 
-- 🎨 Exploring product design and better UX decisions.
+- 🤖 Exploring AI applications and agent development.
 - 💻 Strengthening my frontend and backend engineering skills.
 - 🧠 Learning software architecture and system design.
-- 🤖 Exploring AI applications and agent development.
+- 🎨 Exploring product design and better UX decisions. 
 - 🚀 Building products and experimenting with new ideas.
 
 <br clear="right"/>
