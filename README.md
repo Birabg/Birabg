@@ -11,14 +11,18 @@
 
 <table>
   <tr>
-    <th align="left">If you're hiring a designer</th>
-    <th align="left">If you want to build something</th>
-    <th align="left">If you're just looking around</th>
-  </tr>
-  <tr>
-    <td>See the case studies on <a href="https://www.behance.net/biragirma">Behance</a></td>
-    <td><a href="mailto:biragirma4@gmail.com">Send me the idea</a>, even a rough one</td>
-    <td>Open the <a href="#layers">layers</a> below, one of them is hidden</td>
+    <td width="33%" valign="top">
+      <b>Hiring a designer?</b><br/>
+      <sub>Case studies, process and visual work live on <a href="https://www.behance.net/biragirma">Behance →</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Want something built?</b><br/>
+      <sub><a href="mailto:biragirma4@gmail.com">Send me the idea →</a> Even a rough one is a good start.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Just looking around?</b><br/>
+      <sub>Open the <a href="#layers">layers ↓</a> below. One of them is hidden.</sub>
+    </td>
   </tr>
 </table>
 
@@ -29,9 +33,11 @@
 </a>
 
 <p align="center">
-  <a href="https://lockin-beige-three.vercel.app/dashboard"><b>Open Lockin</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Birabg?tab=repositories">Browse all my repos</a>
+  <b>Lockin</b> · a social focus timer: run sessions, keep a streak, see who's focusing right now and climb the leaderboard with friends.<br/>
+  <sub>Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL</sub><br/><br/>
+  <a href="https://lockin-beige-three.vercel.app/dashboard"><b>Open Lockin ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Birabg/lockin">Source code</a>
 </p>
 
 <br/>
@@ -47,6 +53,25 @@
 <br/>
 <sub>Shipping something, most days.</sub>
 </div>
+
+## More things I've made
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>DEV_TYPE</b><br/>
+      <sub>A typing test for developers: real code snippets in 16 languages, with every bracket, semicolon and indent included.</sub><br/><br/>
+      <a href="https://devtype.pro.et">Try it ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>MOTI Partner Support Portal</b><br/>
+      <sub>Designed and built during my internship at MOTI Engineering: logging, routing and tracking partner support cases, with role-based dashboards.</sub><br/><br/>
+      <a href="https://github.com/Birabg/moti_partner_support_final">Source code ↗</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/Birabg?tab=repositories">Browse all my repos →</a></p>
 
 ## Layers
 
@@ -64,6 +89,22 @@
 <br/>
 
 <img src="assets/process.svg" width="100%" alt="Understand the problem, design the experience, build the solution, make it meaningful, then learn and start again"/>
+</details>
+
+<details>
+<summary><b>▢ Toolbox</b>&nbsp;&nbsp;what I design and build with</summary>
+
+<br/>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=dark"/>
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=light"/>
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=dark" alt="Figma, React, Next.js, TypeScript, Tailwind CSS, Vite, Prisma, PostgreSQL, Supabase, Vercel"/>
+</picture>
+</p>
+
+<p align="center"><sub>Design in Figma → build in React and Next.js → ship on Vercel</sub></p>
 </details>
 
 <details>
@@ -114,6 +155,33 @@ building      Lockin, and whatever idea won't leave me alone
 
 <p>Every pixel in this profile was pushed with that heritage in mind. If you made it this far, we should probably talk over a cup: <a href="mailto:biragirma4@gmail.com">biragirma4@gmail.com</a></p>
 </details>
+
+## Let's talk
+
+<table>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:biragirma4@gmail.com">biragirma4@gmail.com</a></td>
+    <td><sub>Best for projects, roles and collaborations</sub></td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/bira-girma-441a08319">in/bira-girma</a></td>
+    <td><sub>Experience and professional updates</sub></td>
+  </tr>
+  <tr>
+    <td><b>Behance</b></td>
+    <td><a href="https://www.behance.net/biragirma">biragirma</a></td>
+    <td><sub>UI/UX case studies and visual work</sub></td>
+  </tr>
+  <tr>
+    <td><b>Telegram</b></td>
+    <td><a href="https://t.me/Bira_G">t.me/Bira_G</a></td>
+    <td><sub>Design notes and work in progress</sub></td>
+  </tr>
+</table>
+
+<p><sub>Based in Adama, Ethiopia (UTC+3) · Open to freelance projects and collaborations</sub></p>
 
 <br/>
 
