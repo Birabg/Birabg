@@ -23,10 +23,13 @@
 
 <br/>
 
-<a href="https://lockin-beige-three.vercel.app/dashboard"><img src="assets/lockin.svg" width="100%" alt="Lockin: a focus timer filling up next to this week's focus sessions"/></a>
+<a href="https://lockin-beige-three.vercel.app/dashboard">
+  <img src="assets/lockin.svg" width="100%" alt="Lockin: a focus timer filling up next to this week's focus sessions"/>
+</a>
 
 <p align="center">
-  <a href="https://lockin-beige-three.vercel.app/dashboard"><b>Open Lockin</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://lockin-beige-three.vercel.app/dashboard"><b>Open Lockin</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Birabg?tab=repositories">Browse all my repos</a>
 </p>
 
@@ -34,20 +37,26 @@
 
 <details>
   <summary><b>▢ About</b>&nbsp;&nbsp;who's behind the pixels</summary>
+
   <p>Hey, I'm <b>Bira</b>, a design engineer from Ethiopia and a 4th-year Computer Science &amp; Engineering student at ASTU.</p>
+
   <p>I care about the whole path of a product: figuring out what the problem actually is, designing the experience around real people, and then writing the code that makes it work. Most of what I make starts as a frame and ends as a deploy.</p>
 </details>
 
 <details>
   <summary><b>▢ Process</b>&nbsp;&nbsp;how an idea becomes a product</summary>
+
   <br/>
+
   <img src="assets/process.svg" width="100%" alt="Understand the problem, design the experience, build the solution, make it meaningful, then learn and start again"/>
 </details>
 
 <details>
   <summary><b>▢ Now</b>&nbsp;&nbsp;what I'm working on</summary>
+
   <pre>
 $ bira --status
+
 studying 4th year, CS&amp;E at ASTU
 learning software architecture and system design
 sharpening frontend and backend engineering
@@ -59,59 +68,69 @@ building Lockin, and whatever idea won't leave me alone
 <details>
   <summary><b>▢ Activity</b>&nbsp;&nbsp;what my GitHub has been up to</summary>
 
+  <br/>
+
   <h3 align="center">📈 GitHub Stats</h3>
 
   <div align="center">
-    <br/>
 
-    <!-- Contribution Summary: Total Contributions, Current Streak, Longest Streak -->
+    <!-- CONTRIBUTIONS & STREAK -->
     <a href="https://github.com/Birabg">
       <img
-        width="65%"
-        src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=0E1330&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8&border_radius=12"
+        src="https://streak-stats.demolab.com?user=Birabg&theme=transparent&hide_border=true&background=0E1330&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+        width="75%"
         alt="GitHub total contributions, current streak and longest streak"
       />
     </a>
 
     <br/><br/>
 
-    <!-- GitHub Statistics -->
+    <!-- GITHUB OVERVIEW -->
     <img
-      width="49%"
       src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true"
+      width="49%"
       alt="GitHub statistics"
     />
 
-    <!-- Most Used Languages -->
+    <!-- MOST USED LANGUAGES -->
     <img
-      width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8"
+      width="49%"
       alt="Most used programming languages"
     />
 
     <br/><br/>
 
-    <!-- Contribution Activity Graph -->
+    <!-- CONTRIBUTION ACTIVITY GRAPH -->
     <img
-      width="100%"
       src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=0E1330&color=B4BCE0&line=0D99FF&point=FFFFFF&area=true&area_color=0D99FF&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+      width="100%"
       alt="GitHub contribution activity graph"
     />
+
+    <br/><br/>
 
   </div>
 </details>
 
 <details>
   <summary><b>☕ Hidden layer</b>&nbsp;&nbsp;you found it</summary>
+
   <p>Legend says coffee was discovered in Ethiopia, when a goat herder named Kaldi noticed his goats dancing after eating some strange red berries.</p>
+
   <p>Every pixel in this profile was pushed with that heritage in mind. If you made it this far, we should probably talk over a cup: <a href="mailto:biragirma4@gmail.com">biragirma4@gmail.com</a></p>
 </details>
 
 <br/>
 
 <div align="center">
+
   <p><b>Design with intention. Build with curiosity.</b></p>
+
   <sub>Crafted with curiosity from Ethiopia</sub>
+
   <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=Birabg&style=flat-square&color=0D99FF&label=visitors" alt="Profile visitors"/>
+
 </div>
