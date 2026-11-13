@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <a href="mailto:biragirma4@gmail.com"><img src="assets/hero.svg" width="100%" alt="Bira Girma, product designer who ships the code too"/></a>
   <p>I design interfaces and then build them myself,<br/>so nothing gets lost between the mockup and the merge.</p>
@@ -116,4 +115,3 @@ building Lockin, and whatever idea won't leave me alone
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Birabg&style=flat-square&color=0D99FF&label=visitors" alt="Profile visitors"/>
 </div>
-```
