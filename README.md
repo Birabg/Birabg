@@ -1,232 +1,313 @@
 
 <div align="center">
+
   <a href="mailto:biragirma4@gmail.com">
-    <img src="assets/hero.svg" width="100%" alt="Bira Girma — Design Engineer" />
+    <img src="assets/hero.svg" width="100%" alt="Bira Girma | Design Engineer" />
   </a>
 
+  <h3>Design Engineer · Product Designer · Developer</h3>
+
   <p>
-    I design digital experiences and build the products behind them.<br/>
-    From the first sketch to the final commit, I care about how things work and how they feel.
+    I turn ideas into thoughtful digital experiences.<br/>
+    Designing interfaces, building products, and exploring the technology behind them.
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/bira-girma-441a08319">
-      <img src="https://img.shields.io/badge/LinkedIn-0E1330?style=flat-square&logo=linkedin&logoColor=0D99FF" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0E1330?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
     </a>
     <a href="https://www.behance.net/biragirma">
-      <img src="https://img.shields.io/badge/Behance-0E1330?style=flat-square&logo=behance&logoColor=0D99FF" alt="Behance" />
+      <img src="https://img.shields.io/badge/Behance-0E1330?style=for-the-badge&logo=behance&logoColor=1769FF" />
     </a>
     <a href="https://t.me/Bira_G">
-      <img src="https://img.shields.io/badge/Telegram-0E1330?style=flat-square&logo=telegram&logoColor=0D99FF" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-0E1330?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
     </a>
     <a href="mailto:biragirma4@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0E1330?style=flat-square&logo=gmail&logoColor=0D99FF" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-0E1330?style=for-the-badge&logo=gmail&logoColor=EA4335" />
     </a>
   </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Birabg&style=flat-square&color=0D99FF&label=PROFILE+VIEWS" />
+  </p>
+
 </div>
+
+---
+
+### ✦ A little about what I do
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>Looking for a designer?</b><br/>
-      <sub>Explore my <a href="https://www.behance.net/biragirma">UI/UX work and case studies →</a></sub>
+    <td width="33%" align="center">
+      <h2>🎨</h2>
+      <b>Design</b>
+      <br/>
+      <sub>UI/UX · Product Design · Prototyping</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>Have an idea to build?</b><br/>
-      <sub><a href="mailto:biragirma4@gmail.com">Let's talk about it →</a></sub>
+    <td width="33%" align="center">
+      <h2>💻</h2>
+      <b>Development</b>
+      <br/>
+      <sub>Frontend · Backend · Software Engineering</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>Just exploring?</b><br/>
-      <sub>Take a look through the <a href="#layers">layers ↓</a>. There's a hidden one.</sub>
+    <td width="33%" align="center">
+      <h2>🤖</h2>
+      <b>Exploration</b>
+      <br/>
+      <sub>AI · New Technologies · Experiments</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+---
+
+## 🚀 Featured Project
 
 <a href="https://lockin-beige-three.vercel.app/dashboard">
-  <img src="assets/lockin.svg" width="100%" alt="Lockin productivity platform preview" />
+  <img src="assets/lockin.svg" width="100%" alt="Lockin productivity platform" />
 </a>
 
-<p align="center">
-  <b>Lockin</b> · A productivity platform built to help people focus, track their progress, and develop better work habits.<br/>
-  <sub>Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL</sub><br/><br/>
-  <a href="https://lockin-beige-three.vercel.app/dashboard"><b>Explore Lockin ↗</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Birabg/lockin">View source code</a>
+### 🔵 Lockin
+
+A productivity platform inspired by the idea of making focused work more engaging. Built to help people stay focused, track their progress, and develop better work habits.
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<p>
+  <a href="https://lockin-beige-three.vercel.app/dashboard">
+    <img src="https://img.shields.io/badge/Live_Demo-0D99FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Birabg/lockin">
+    <img src="https://img.shields.io/badge/Source_Code-0E1330?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://github.com/Birabg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Birabg&hide_border=true&background=0E1330&stroke=1E2650&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Birabg&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=57606A&currStreakNum=1F2328&sideNums=1F2328&dates=8C959F"/>
-      <img src="https://streak-stats.demolab.com?user=Birabg&hide_border=true&background=0E1330&stroke=1E2650&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8" width="80%" alt="GitHub contribution streak" />
-    </picture>
-  </a>
-  <br/>
-  <sub>Learning, building, and shipping along the way.</sub>
-</div>
-
-## More things I've made
+## 🧩 Other Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>DEV_TYPE</b><br/>
-      <sub>A typing test for developers, featuring real code snippets in 16 programming languages. Every bracket, semicolon, and indentation matters.</sub><br/><br/>
-      <a href="https://devtype.pro.et">Try DEV_TYPE ↗</a>
+
+      ### ⌨️ DEV_TYPE
+
+      A developer-focused typing test featuring real code snippets across 16 programming languages. Every bracket, semicolon, and indentation matters.
+
+      <br/>
+
+      <a href="https://devtype.pro.et">
+        <img src="https://img.shields.io/badge/Visit_Project-0D99FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+
     </td>
     <td width="50%" valign="top">
-      <b>MOTI Partner Support Portal</b><br/>
-      <sub>A partner support platform I worked on during my internship at MOTI Engineering, designed to help teams log, route, and track support cases through role-based dashboards.</sub><br/><br/>
-      <a href="https://github.com/Birabg/moti_partner_support_final">View source code ↗</a>
+
+      ### 🏢 MOTI Partner Support Portal
+
+      A support management platform I worked on during my internship at MOTI Engineering. Designed to help teams log, route, and track partner support cases through role-based dashboards.
+
+      <br/>
+
+      <a href="https://github.com/Birabg/moti_partner_support_final">
+        <img src="https://img.shields.io/badge/View_Source-0E1330?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Birabg?tab=repositories">Explore all my repositories →</a>
+  <a href="https://github.com/Birabg?tab=repositories">
+    <b>Explore all repositories →</b>
+  </a>
 </p>
 
-## Layers
+---
+
+## 👨‍💻 About Me
 
 <details>
-  <summary><b>▢ About</b>&nbsp;&nbsp;the person behind the pixels</summary>
-
-  <p>
-    Hey, I'm <b>Bira</b>, a Design Engineer and Computer Science &amp; Engineering student at Adama Science and Technology University (ASTU), Ethiopia.
-  </p>
-
-  <p>
-    I enjoy working across the boundary between design and development. I like understanding the problem first, shaping a thoughtful user experience, and then bringing that experience to life through code.
-  </p>
-
-  <p>
-    My interests include product design, UI/UX, frontend engineering, software development, and exploring how AI can make the things we build more useful.
-  </p>
-
-  <p>
-    I believe good products need more than attractive interfaces. They need clear thinking, useful interactions, and careful implementation.
-  </p>
-</details>
-
-<details>
-  <summary><b>▢ Process</b>&nbsp;&nbsp;how an idea becomes a product</summary>
+  <summary><b>✦ Who is Bira?</b></summary>
 
   <br/>
 
-  <img src="assets/process.svg" width="100%" alt="Understand the problem, design the experience, build the solution, make it meaningful, then learn and start again" />
+  Hey, I'm **Bira Girma**, a Design Engineer and Computer Science & Engineering student at Adama Science and Technology University (ASTU), Ethiopia.
+
+  I enjoy working at the intersection of design and engineering. My approach is simple: understand the problem, design a meaningful experience, and bring it to life through code.
+
+  I'm particularly interested in:
+
+  - 🎨 UI/UX and Product Design
+  - 💻 Frontend and Backend Engineering
+  - 🏗️ Software Architecture and System Design
+  - 🤖 Artificial Intelligence and AI-powered applications
+  - ✨ Creative technology and digital experiences
+
+  I believe great products come from combining thoughtful design with solid engineering.
+
 </details>
 
 <details>
-  <summary><b>▢ Toolbox</b>&nbsp;&nbsp;the tools I work with</summary>
+  <summary><b>⚙️ My Process</b></summary>
 
   <br/>
 
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=dark"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=light"/>
-      <img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,vite,prisma,postgres,supabase,vercel&theme=dark" alt="Figma, React, Next.js, TypeScript, Tailwind CSS, Vite, Prisma, PostgreSQL, Supabase, and Vercel" />
-    </picture>
-  </p>
+  <img src="assets/process.svg" width="100%" alt="My product development process" />
 
   <p align="center">
-    <sub>Design in Figma → build with React and Next.js → bring it to life.</sub>
+    <sub>Understand → Design → Build → Refine → Learn → Repeat</sub>
   </p>
+
 </details>
 
-<details>
-  <summary><b>▢ Now</b>&nbsp;&nbsp;what I'm focused on</summary>
+---
 
-  <pre>
+## 🛠️ Tech Stack & Tools
+
+The technologies and tools I use to design, develop, and experiment.
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Figma, Photoshop and Illustrator" />
+</p>
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,postgres,supabase,prisma" alt="Backend and database technologies" />
+</p>
+
+### 🚀 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,linux" alt="Development tools" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <a href="https://github.com/Birabg">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Birabg">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8" alt="Most used programming languages" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Birabg">
+    <img width="80%" src="https://streak-stats.demolab.com?user=Birabg&hide_border=true&background=0E1330&stroke=1E2650&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8" alt="GitHub contribution streak" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Birabg">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=0E1330&color=B4BCE0&line=0D99FF&point=FFFFFF&area=true&area_color=0D99FF&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+  </a>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```bash
 $ bira --status
 
-studying      Computer Science & Engineering at ASTU
-learning      software architecture and system design
-building      frontend and backend development skills
-exploring     product design, UX, and AI
-working on    Lockin and new ideas worth bringing to life
-  </pre>
-</details>
+  🎓 studying    Computer Science & Engineering @ ASTU
+  🏗️ learning    Software Architecture & System Design
+  💻 improving   Frontend & Backend Engineering
+  🎨 exploring   Product Design & User Experience
+  🤖 researching AI and emerging technologies
+  🚀 building    Lockin and new ideas
+```
+
+---
+
+## ☕ A Hidden Layer
 
 <details>
-  <summary><b>▢ Activity</b>&nbsp;&nbsp;a snapshot of my GitHub</summary>
+  <summary><b>☕ You found something!</b></summary>
 
   <br/>
 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0D99FF&text_color=424A53&icon_color=0D99FF&rank_icon=github&include_all_commits=true"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0D99FF&text_color=424A53&langs_count=8"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8" width="49%" alt="Most used programming languages" />
-    </picture>
+  There's a famous Ethiopian coffee legend about a goat herder named Kaldi, who noticed his goats becoming unusually energetic after eating red berries.
 
-    <br/><br/>
+  Whether every detail is true or not, it's a story that has become part of coffee's cultural history.
 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=0E1330&color=B4BCE0&line=0D99FF&point=FFFFFF&area=true&area_color=0D99FF&hide_border=true&radius=12&custom_title=Contribution%20Activity"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=FFFFFF&color=424A53&line=0D99FF&point=0D99FF&area=true&area_color=0D99FF&hide_border=true&radius=12&custom_title=Contribution%20Activity"/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birabg&bg_color=0E1330&color=B4BCE0&line=0D99FF&point=FFFFFF&area=true&area_color=0D99FF&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
-    </picture>
-  </div>
+  Ethiopia and coffee have a special connection.
+
+  If you've made it this far, let's talk over a cup of coffee.
+
+  📩 **[biragirma4@gmail.com](mailto:biragirma4@gmail.com)**
+
 </details>
 
-<details>
-  <summary><b>☕ Hidden layer</b>&nbsp;&nbsp;you found it</summary>
+---
 
-  <p>
-    There's a popular Ethiopian coffee legend about a goat herder named Kaldi, who noticed his goats becoming unusually energetic after eating red berries. Whether every detail is true or not, it's a story that has become part of coffee's cultural history.
-  </p>
+## 🤝 Let's Connect
 
-  <p>
-    If you made it this far, we should probably talk over a cup of coffee:
-    <a href="mailto:biragirma4@gmail.com">biragirma4@gmail.com</a>
-  </p>
-</details>
-
-## Let's talk
+I'm always interested in meeting people, exchanging ideas, and working on meaningful projects.
 
 <table>
   <tr>
-    <td><b>Email</b></td>
+    <td>📧 <b>Email</b></td>
     <td><a href="mailto:biragirma4@gmail.com">biragirma4@gmail.com</a></td>
-    <td><sub>Projects, opportunities, and collaborations</sub></td>
   </tr>
   <tr>
-    <td><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/bira-girma-441a08319">bira-girma</a></td>
-    <td><sub>Professional updates and conversations</sub></td>
+    <td>💼 <b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/bira-girma-441a08319">Connect with me</a></td>
   </tr>
   <tr>
-    <td><b>Behance</b></td>
-    <td><a href="https://www.behance.net/biragirma">biragirma</a></td>
-    <td><sub>UI/UX work and design case studies</sub></td>
+    <td>🎨 <b>Behance</b></td>
+    <td><a href="https://www.behance.net/biragirma">Explore my design work</a></td>
   </tr>
   <tr>
-    <td><b>Telegram</b></td>
-    <td><a href="https://t.me/Bira_G">t.me/Bira_G</a></td>
-    <td><sub>Learning notes and work in progress</sub></td>
+    <td>✈️ <b>Telegram</b></td>
+    <td><a href="https://t.me/Bira_G">Follow my journey</a></td>
+  </tr>
+  <tr>
+    <td>💻 <b>GitHub</b></td>
+    <td><a href="https://github.com/Birabg">Explore my repositories</a></td>
   </tr>
 </table>
 
 <p>
-  <sub>Based in Ethiopia (UTC+3) · Open to freelance projects and collaborations</sub>
+  📍 Based in Ethiopia · UTC+3<br/>
+  Open to freelance projects, collaborations, and opportunities.
 </p>
 
 <br/>
 
 <div align="center">
-  <p><b>Design. Build. Learn. Repeat.</b></p>
-  <sub>Made with curiosity in Ethiopia.</sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Birabg&style=flat-square&color=0D99FF&label=visitors" alt="Profile visitors" />
+
+  <h3>Design. Build. Learn. Repeat.</h3>
+
+  <p>
+    <sub>Crafted with curiosity in Ethiopia 🇪🇹</sub>
+  </p>
+
+  <a href="https://github.com/Birabg">
+    <img src="https://img.shields.io/badge/Made_with-Curiosity-0E1330?style=flat-square&logo=github&logoColor=0D99FF" />
+  </a>
+
 </div>
