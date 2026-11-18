@@ -5,7 +5,7 @@
     <img src="assets/hero.svg" width="100%" alt="Bira Girma | Design Engineer" />
   </a>
 
-  <h3>Design Engineer · Product Designer · Developer</h3>
+  <h3>Design Engineer · ProductDesigner · Developer</h3>
 
   <p>
     I turn ideas into thoughtful digital experiences.<br/>
