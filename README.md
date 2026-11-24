@@ -35,16 +35,37 @@
 
 ---
 
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # updates daily
+  workflow_dispatch:       # lets you run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <a href="https://github.com/Birabg">
-    <img height="180" src="https://YOUR-APP.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/Birabg">
-    <img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8&cache_seconds=86400" alt="Most used programming languages" />
-  </a>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+
+  <br/><br/>
+
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 
   <br/><br/>
 
@@ -53,5 +74,4 @@
   </a>
 
 </div>
-
 
