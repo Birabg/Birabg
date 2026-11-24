@@ -35,25 +35,23 @@
 
 ---
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
   <a href="https://github.com/Birabg">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+    <img height="180" src="https://YOUR-APP.vercel.app/api?username=Birabg&show_icons=true&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&icon_color=0D99FF&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/Birabg">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8" alt="Most used programming languages" />
+    <img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=Birabg&layout=compact&hide_border=true&bg_color=0E1330&title_color=0D99FF&text_color=B4BCE0&langs_count=8&cache_seconds=86400" alt="Most used programming languages" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/Birabg">
+  <a href="https://git.io/streak-stats">
     <img width="80%" src="https://streak-stats.demolab.com?user=Birabg&hide_border=true&background=0E1330&stroke=1E2650&ring=0D99FF&fire=0D99FF&currStreakLabel=0D99FF&sideLabels=B4BCE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F89B8" alt="GitHub contribution streak" />
   </a>
 
-  <br/><br/>
-
+</div>
 
 
